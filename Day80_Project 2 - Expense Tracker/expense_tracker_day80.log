@@ -1,0 +1,14 @@
+2026-07-14 19:58:49,588 - INFO - === Day 80 Build: Expense Tracker ===
+2026-07-14 19:58:49,589 - INFO - Generating practice sheet...
+2026-07-14 19:58:49,651 - INFO - Practice sheet created: day80_input.xlsx
+2026-07-14 19:58:49,651 - INFO - Loading data from day80_input.xlsx
+2026-07-14 19:58:49,721 - INFO - Loaded 100 transactions and 9 budget categories
+2026-07-14 19:58:49,724 - INFO - Processing expenses and calculating variances...
+2026-07-14 19:58:49,736 - INFO - Processing complete
+2026-07-14 19:58:49,737 - INFO - INSIGHT: Total Spend: $58,987.83 | Total Budget: $3,150.00
+2026-07-14 19:58:49,742 - INFO - INSIGHT: Net Position: $55,837.83
+2026-07-14 19:58:49,745 - INFO - INSIGHT: Highest Overrun: Transport ($12,096.16 over budget)
+2026-07-14 19:58:49,746 - INFO - Generating visualizations...
+2026-07-14 19:58:50,243 - INFO - Charts saved to day80_charts
+2026-07-14 19:58:50,243 - INFO - Exporting report to day80_expense_report.xlsx
+2026-07-14 19:58:50,312 - INFO - Report export complete

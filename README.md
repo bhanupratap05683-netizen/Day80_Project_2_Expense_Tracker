@@ -20,4 +20,4 @@ A production-oriented expense tracking system that ingests raw transaction data,
 
 ## Quick Start
 ```bash
-python day80_build.py
+python day80_Project 2 - Expense Tracker.py

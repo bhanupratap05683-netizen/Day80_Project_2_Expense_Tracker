@@ -1,4 +1,4 @@
-# Project 2: Expense Tracker — Day 80 Build
+# Project 2: Expense Tracker - Day 80 Build
 
 ## Overview
 A production-oriented expense tracking system that ingests raw transaction data, categorizes expenses via configurable regex rules, compares actual spending against predefined budgets, and exports a multi-sheet Excel report with embedded visualizations.
